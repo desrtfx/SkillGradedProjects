@@ -20,3 +20,5 @@ All below are cumulative - the next bullet assumes knowledge of the previous:
 + You've learnt arrays (lists, any form of collections)
    + Card games
    + Board games (like "Don't Angry", "Connect Four", "Tic Tac Toe", "Battleships", etc.)
+   + [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+   + [Dewdney's Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor)
