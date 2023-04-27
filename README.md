@@ -15,6 +15,7 @@ All below are cumulative - the next bullet assumes knowledge of the previous:
    + Number guessing game
    + 99 bottles of beer
    + Dice games
+   + More patterns - repeat the patterns from early, but this time, use loops and conditionals
 + You have learnt string manipulation
    + Hangman
 + You've learnt arrays (lists, any form of collections)
